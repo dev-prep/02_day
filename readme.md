@@ -3,6 +3,7 @@
 ## Topics
 
 - CSS
+- Bootstrap
 
 ## Takeaways
 
