@@ -2,6 +2,19 @@
 
 Bootstrap is a CSS framework made by twitter. It can be used to make great looking websites very quickly. 
 
+#ROADMAP:
+
+1. Bootstrap Setup
+2. CSS 
+3. Components
+4. Javascript Components
+5. Bootstrap Bill catch up code along
+
+Then we will do a catch-up code along and build the following bootstrap site:
+
+![](bootstrap-bill.png)
+
+
 ##1. Setup
 For the purposes of today we should use the bootstrap CDN: 
 
@@ -32,9 +45,20 @@ Who can remember what CDN stands for?
 
 > Side-note: sourcing dependencies in the correct order
 
-Boostrap has 3 main offerings: CSS library, HTML components, and Javascript powered components. We will focus on the following:
+---
 
 ##2. CSS
+
+
+### Activity!
+
+Boostrap has 3 main offerings: CSS library, HTML components, and Javascript powered components.
+
+For each category, we are going to do a **short activity**:
+
+> research the bootstrap feature you have been assigned and present to the class how you think that feature works. 
+ 
+
 
 * Containers
 * Typography
@@ -96,3 +120,6 @@ Boostrap has 3 main offerings: CSS library, HTML components, and Javascript powe
 * Tooltips
 * Collapse
 
+##5. LAB
+
+Bootstrap is all about learning for yourself! 
